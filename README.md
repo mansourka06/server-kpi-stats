@@ -5,6 +5,8 @@
 
 `server-kips-stats.sh`  is a production-ready server KPI monitoring script that provides comprehensive system statistics with alerting capabilities. It provides a quick snapshot of your Linux server’s performance. It monitors CPU usage, memory stats, disk usage, and the top resource-consuming processes.
 
+===============================
+
 ## OS Compatibility
 
 - [x] Debian
@@ -25,6 +27,7 @@ This script uses standard Linux tools:
 - bc
 - ps
 - df
+
 No external packages required.
 
 ## Features
