@@ -7,8 +7,6 @@
 
 ## OS Compatibility
 
-===================
-
 - [x] Debian
 - [x] Ubuntu  
 - [x] RedHat/CentOS
